@@ -20,5 +20,3 @@ vmess://c87053f0-8681-4b44-98e1-759694aa90a4@vip4.richardbest.ir:20169?encryptio
 vmess://9c050a86-d612-48f1-ec32-e573df08a1b7@159.65.89.250:3389?encryption=auto&headerType=http&host=vkvd127.mycdn.me&type=tcp#MojtabaXYZ
 vmess://4b5e4565-322f-4223-a891-78a84f189726@speed.cloudflare.com:8880?encryption=auto&host=us-ccs.yuji2022.eu.org&path=%2FXSjeg73o6ZdsheahCb5JG&type=ws#MojtabaXYZ
 vmess://7748cec0-5164-4c52-87cf-55758d80fdaf@74.48.4.5:50100?encryption=auto&headerType=http&host=vkvd127.mycdn.me&type=tcp#MojtabaXYZ
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206U1lIZ1RpRG9oQXJDNTNKbXd2bUIzUT09@78.141.226.231:6623#MojtabaXYZ
-ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA@80.92.204.106:9064#MojtabaXYZ
