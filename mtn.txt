@@ -1,3 +1,7 @@
+#profile-title:@V2rayMiner-MTN🕊️
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=10829272882
+
 vmess://9c050a86-d612-48f1-ec32-e573df08a1b7@170.64.137.62:3389?encryption=auto&headerType=http&host=vkvd127.mycdn.me&type=tcp#@V2rayMiner
 vmess://c53b8706-7a23-486c-89c5-4dac1209ef11@speed.cloudflare.com:80?encryption=auto&host=be2.vmess.site.&path=%2Fvmess&type=ws#@V2rayMiner
 vmess://9c050a86-d612-48f1-ec32-e573df08a1b7@142.93.144.99:3389?encryption=auto&headerType=http&host=vkvd127.mycdn.me&type=tcp#@V2rayMiner
