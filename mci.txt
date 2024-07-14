@@ -1,6 +1,6 @@
 #profile-title:@V2rayMiner🕊️
 #profile-update-interval: 1
-#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=10
+#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=10829272882
 
 vmess://03fcc618-b93d-6796-6aed-8a38c975d581@speed.cloudflare.com:80?encryption=auto&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aparat.com.v2ray.com.sh847.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g28h.dns-dynamic.net.&path=%2FTelegram%2FXV2ray&type=ws#@V2rayMiner
 vmess://2a3263e2-891c-4446-b474-a8c63acb6e25@speed.cloudflare.com:2087?alpn=h2%2Chttp%2F1.1&encryption=auto&fp=chrome&security=tls&sni=dd21146ygfdsna9191281280kdm22kas2123aawdsd1234bb104238179179.rethamartinez.net&type=grpc#@V2rayMiner
