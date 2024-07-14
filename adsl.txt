@@ -1,3 +1,7 @@
+#profile-title:@V2rayMiner-ADSL🕊️
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=10829272882
+
 vmess://04621bae-ab36-11ec-b909-0242ac120002@23.166.88.101:22324?encryption=auto&type=tcp#@V2rayMiner
 vmess://a1655f51-1e20-4a92-8a11-b7ca30a7a353@speed.cloudflare.com:2053?alpn=http%2F1.1&encryption=auto&fp=chrome&host=nezuko.raidenshogun.cloudns.org&path=%2Flinkws%2Fafrhms07.xfixedfloat.cfd&security=tls&sni=nezuko.raidenshogun.cloudns.org&type=ws#@V2rayMiner
 vmess://b329a63b-fc34-4049-9e54-caf33d816b09@77.91.70.46:2089?encryption=auto&headerType=http&host=vkvd127.mycdn.me&type=tcp#@V2rayMiner
