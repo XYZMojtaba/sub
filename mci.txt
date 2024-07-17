@@ -1,3 +1,7 @@
+#profile-title:@V2rayMiner-MCI🕊️
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=10829272882
+
 vmess://03fcc618-b93d-6796-6aed-8a38c975d581@speed.cloudflare.com:80?encryption=auto&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aparat.com.v2ray.com.sh847.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g28h.dns-dynamic.net.&path=%2FTelegram%2FXV2ray&type=ws#@V2rayMiner
 vless://ParsVip0-ParsVip0-Parsvip000@speed.cloudflare.com:443?alpn=h2%2Chttp%2F1.1&flow=&fp=chrome&security=tls&serviceName=%40ParsVip0%40ParsVip0%40ParsVip0%40ParsVip0%40ParsVip0%40ParsVip0%40ParsVip0%40ParsVip0%40ParsVip0%40ParsVip0%40ParsVip0%40ParsVip0%40ParsVip0%40ParsVip0%40ParsVip0&sni=1-telegram-parsvip0-parsvip0-parsvip0-parsvip0-parsvip0.pars-vip.sbs&type=grpc#@V2rayMiner
 vmess://03fcc618-b93d-6796-6aed-8a38c975d581@speed.cloudflare.com:8080?encryption=auto&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aparat.com.v2ray.com.sh847.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g28h.dns-dynamic.net.&path=%2FTelegram%2FXV2ray&type=ws#@V2rayMiner
