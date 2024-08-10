@@ -1,3 +1,7 @@
+#profile-title:@V2rayMiner🕊️
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=10829272882
+
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@bpb-panel-70m.pages.dev:443/?type=ws&encryption=none&host=Bpb-PaneL-70M.PaGeS.Dev&path=%2Fi3pdlQJC7iilhdhz%2FMTQyLjE3MS4xNjYuMTE2&ed=2560&eh=Sec-WebSocket-Protocol&security=tls&sni=BPB-pAnel-70m.pagES.dEv&alpn=http%2F1.1&fp=randomized#@V2rayMiner
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443/?type=ws&encryption=none&host=bPb-PANEl-70m.pAges.dEV&path=%2FiNHlpPNQqyvOwFfo%2FMTQyLjE3MS4xNjYuMTE2&ed=2560&eh=Sec-WebSocket-Protocol&security=tls&sni=bpb-PanEl-70M.PaGes.DEV&alpn=http%2F1.1&fp=randomized#@V2rayMiner
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:443/?type=ws&encryption=none&host=bPb-paNeL-70m.PaGes.DEV&path=%2FB1NCrNpPzIBW6u4p%2FMTQyLjE3MS4xNjYuMTE2&ed=2560&eh=Sec-WebSocket-Protocol&security=tls&sni=bPB-pANEl-70M.PaGEs.dev&alpn=http%2F1.1&fp=randomized#@V2rayMiner
